@@ -1,0 +1,62 @@
+{
+    "auth": {
+        "not_auth": "Autoriser l'application",
+        "button": "Autoriser",
+        "success": "Application installée avec succès."
+    },
+    "navbar": {
+        "home": "Accueil",
+        "dice": "Lanceur de dés",
+        "result": "Résultat"
+    },
+    "home": {
+        "welcome": "Bienvenue !",
+        "p1": "Input Roller est un lanceur de dés en version Beta.",
+        "p2": "Il est possible que certaines fonctionnalités ne soient pas encore complètement fonctionnelles.",
+        "p3": "Si vous rencontrez un bug ou des difficultés d'utilisation, n'hésitez pas à me faire un retour via Discord.",
+        "communaute": "Rejoignez la Communauté",
+        "commun_text": "Pour jouer et partager sur le JdR et Miro.",
+        "discord": "Serveur Discord : MIRROR",
+        "patreon": "Vous pouvez soutenir les projets : ",
+        "button": {
+            "conteneur": "Voir le conteneur sur le board",
+            "clear_log": "Vider le Log (définitif)"
+        }
+    },
+    "form_dice": {
+        "pseudo": "Personnage ou Pseudo",
+        "sticker": "Post-it",
+        "dice": "Dés",
+        "roll_dice": "Lancer les dés",
+        "add_set": "Ajouter un set de dés"
+    },
+    "dice_set": {
+        "title": "Set de Dés",
+        "critical_title": "Succès / Échecs critiques",
+        "cs": "Succès Critique",
+        "cf": "Échec Critique",
+        "explode_title": "Dés explosifs",
+        "explode": "Minimum pour exploser",
+        "kh_title": "Garder les plus grands",
+        "kl_title": "Garder les plus petits",
+        "keep": "Combien de dés à conserver ?",
+        "target_title": "Succès Cible (dés séparés)",
+        "target": "Chaque dé doit être",
+        "difficulty_title": "Difficulté (somme des dés)",
+        "difficulty": "La somme doit être"
+    },
+    "result": {
+        "details": "Détails",
+        "initial": "Jet initial : ",
+        "explode": "Explosion à partir d'un ",
+        "keep": "Dés avant conservation : ",
+        "mod": "Modificateurs : ",
+        "no_success": "Aucune Réussite",
+        "success": "Réussite(s)",
+        "failure": "Échec(s)",
+        "cs": "Succès critique(s)",
+        "cf": "Échec(s) critique(s)",
+        "each_die": "chacun des dés ",
+        "sum_dice": "somme des dés "
+    }
+}

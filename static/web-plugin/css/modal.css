@@ -1,0 +1,22 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.scrollable-container-modal {
+    height: 100%;
+    position: relative;
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding: 1em;
+}
+
+#cookieModal > h1 {
+    color: #d33682;
+}
+
+#cookieModal > h2 {
+    color: #b58900;
+}

@@ -1,0 +1,61 @@
+{
+    "auth": {
+        "not_auth": "Authorize Application",
+        "button": "Authorize",
+        "success": "Successfully installed application."
+    },
+    "navbar": {
+        "home": "Home",
+        "dice": "Dice Roller",
+        "result": "Result"
+    },
+    "home": {
+        "welcome": "Welcome!",
+        "p1": "Input Roller is a dice roller in Beta version.",
+        "p2": "It' s possible that some features may not be fully functional yet.",
+        "p3": "If you encounter a bug or difficulties of use, feel free to send me a feedback via Discord.",
+        "communaute": "Join the Community",
+        "commun_text": "To play and share about RPG and Miro.",
+        "discord": "Discord Server: MIRROR",
+        "patreon": "You can support me through Patreon or Paypal",
+        "button": {
+            "conteneur": "See the container on the board",
+            "clear_log": "Clear the log (permanent)"
+        }
+    },
+    "form_dice": {
+        "pseudo": "Character or nickname",
+        "sticker": "Sticker",
+        "dice": "Dice",
+        "roll_dice": "Roll the dice",
+        "add_set": "Add a dice set"
+    },
+    "dice_set": {
+        "title": "Dice Set",
+        "critical_title": "Critical success / Fumble",
+        "cs": "Critical Success",
+        "cf": "Fumble",
+        "explode_title": "Exploding dice",
+        "explode": "Minimum to explode",
+        "kh_title": "Keep Highter",
+        "kl_title": "Keep Lesser",
+        "keep": "How many dice to keep?",
+        "target_title": "Success Target (separate dice)",
+        "target": "Each die must be",
+        "difficulty_title": "Difficulty (sum of dice)",
+        "difficulty": "Sum must be"
+    },
+    "result": {
+        "details": "Details",
+        "initial": "Initial roll : ",
+        "explode": "Explode from a ",
+        "keep": "Dice before keeping : ",
+        "mod": "Modifiers : ",
+        "success": "Success",
+        "failure": "Failure",
+        "cs": "Critical success",
+        "cf": "Critical failure",
+        "each_die": "each die ",
+        "sum_dice": "sum of dice "
+    }
+}

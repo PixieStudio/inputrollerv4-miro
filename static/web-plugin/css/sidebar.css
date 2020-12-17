@@ -1,0 +1,30 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.scrollable-container {
+    height: calc(100% - 150px);
+    position: relative;
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding: 1em;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+/* Draggable */
+
+.draggable {
+    cursor: move;
+}
+
+.draggable.dragging {
+    background-color: #333;
+    color: blanchedalmond;
+    opacity: 0.5;
+}

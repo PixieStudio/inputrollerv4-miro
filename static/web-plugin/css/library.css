@@ -1,0 +1,14 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.scrollable-container {
+    height: calc(100% - 70px);
+    position: relative;
+    overflow-y: auto;
+    box-sizing: border-box;
+    padding: 1em;
+}
